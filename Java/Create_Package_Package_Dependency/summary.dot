@@ -1,0 +1,4 @@
+digraph "summary" {
+  "rt.jar"                                           -> "JDK removed internal API (JDK removed internal API)";
+  "rt.jar"                                           -> "java.base (java.base)";
+}
