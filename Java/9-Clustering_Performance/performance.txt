@@ -1,0 +1,3324 @@
+Item: com.oracle.net
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.io
+Package Size: 23 | Module Size: 1 | Redundant 266
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang
+Package Size: 35 | Module Size: 2 | Redundant 600
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.reflect
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.net
+Package Size: 28 | Module Size: 2 | Redundant 607
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.channels
+Package Size: 15 | Module Size: 1 | Redundant 274
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.security
+Package Size: 25 | Module Size: 2 | Redundant 610
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.sdp
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio.ch
+Package Size: 19 | Module Size: 1 | Redundant 270
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.nio
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.misc
+Package Size: 38 | Module Size: 2 | Redundant 597
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.webservices.internal.api
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.annotation
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.http
+Package Size: 2 | Module Size: 2 | Redundant 476
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.soap
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.spi
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.webservices.internal.api.databinding
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.webservices.internal.api.message
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api
+Package Size: 31 | Module Size: 3 | Redundant 793
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.databinding
+Package Size: 22 | Module Size: 3 | Redundant 802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.model
+Package Size: 51 | Module Size: 3 | Redundant 773
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util
+Package Size: 35 | Module Size: 3 | Redundant 789
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.namespace
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.transform
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.xml.sax
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.message
+Package Size: 54 | Module Size: 3 | Redundant 770
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding
+Package Size: 50 | Module Size: 3 | Redundant 774
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.util
+Package Size: 38 | Module Size: 3 | Redundant 786
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.soap
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.webservices.internal.impl.encoding
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.oracle.webservices.internal.impl.internalspi.encoding
+Package Size: 4 | Module Size: 2 | Redundant 474
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.streaming
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.streaming
+Package Size: 22 | Module Size: 3 | Redundant 802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.stream
+Package Size: 9 | Module Size: 2 | Redundant 469
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.accessibility.internal.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.activation.registries
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.logging
+Package Size: 20 | Module Size: 2 | Redundant 615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.awt
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt
+Package Size: 45 | Module Size: 3 | Redundant 779
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.geom
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt
+Package Size: 62 | Module Size: 2 | Redundant 573
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.ref
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.reflectiveObjects
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans.decoder
+Package Size: 14 | Module Size: 3 | Redundant 810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans.finder
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.beans
+Package Size: 27 | Module Size: 2 | Redundant 608
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.parsers
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.xml.sax.helpers
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.misc
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans.editors
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans.util
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.beans.infos
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.activation
+Package Size: 26 | Module Size: 2 | Redundant 609
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.legacy.connection
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.logging
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.naming.cosnaming
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.naming.pcosnaming
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.oa.poa
+Package Size: 30 | Module Size: 2 | Redundant 605
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil
+Package Size: 28 | Module Size: 2 | Redundant 607
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.transport
+Package Size: 34 | Module Size: 2 | Redundant 601
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.pept.transport
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.activation
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.activation.LocatorPackage
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.activation.RepositoryPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.ior
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.ior.iiop
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.legacy.connection
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.logging
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.orb
+Package Size: 38 | Module Size: 2 | Redundant 597
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.protocol
+Package Size: 22 | Module Size: 2 | Redundant 613
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.transport
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CosNaming
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.copyobject
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.util
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.copyobject
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.rmi
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA.portable
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA_2_3.portable
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.corba
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.encoding
+Package Size: 39 | Module Size: 2 | Redundant 596
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.io
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.pept.encoding
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.presentation.rmi
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.math
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.rmi.CORBA
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA.TypeCodePackage
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.corba
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.dynamicany
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA.ORBPackage
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.DynamicAny
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.DynamicAny.DynAnyFactoryPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.DynamicAny.DynAnyPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.protocol
+Package Size: 36 | Module Size: 2 | Redundant 599
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.protocol.giopmsgheaders
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.pept.protocol
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.encoding
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.omg.CORBA
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.omg.CORBA.ValueDefPackage
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.omg.CORBA.portable
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.omg.SendingContext
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.charset
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.SendingContext
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.interceptors
+Package Size: 41 | Module Size: 2 | Redundant 594
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.pept.broker
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.legacy.interceptor
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.oa
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.orbutil.closure
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.resolver
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.servicecontext
+Package Size: 20 | Module Size: 2 | Redundant 615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.Dynamic
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.IOP
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.IOP.CodecFactoryPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.IOP.CodecPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.Messaging
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableInterceptor
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableInterceptor.ORBInitInfoPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.ior
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.ior.iiop
+Package Size: 22 | Module Size: 2 | Redundant 613
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.javax.rmi
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.rmi.server
+Package Size: 16 | Module Size: 1 | Redundant 273
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.javax.rmi.CORBA
+Package Size: 28 | Module Size: 2 | Redundant 607
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.presentation.rmi
+Package Size: 28 | Module Size: 2 | Redundant 607
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.transaction
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.monitoring
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.monitoring
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.naming.namingutil
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.org.omg.CORBA
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CosNaming.NamingContextExtPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CosNaming.NamingContextPackage
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer.POAPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer.ServantLocatorPackage
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.oa
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil.concurrent
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.extension
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.orbutil.fsm
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer.CurrentPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer.POAManagerPackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.PortableServer.portable
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.oa.toa
+Package Size: 23 | Module Size: 2 | Redundant 612
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orb
+Package Size: 55 | Module Size: 2 | Redundant 580
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil.threadpool
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.orbutil.threadpool
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.applet
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.text
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil.closure
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil.fsm
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.orbutil.graph
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.concurrent.atomic
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.orbutil.proxy
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.rmi
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA_2_3
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.concurrent
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.impl.resolver
+Package Size: 19 | Module Size: 2 | Redundant 616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.stub.java.rmi
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.internal.CosNaming
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.internal.Interceptors
+Package Size: 1 | Module Size: 1 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.internal.POA
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.internal.iiop
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.internal.corba
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.corba.se.spi.activation.InitialNameServicePackage
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.bmp
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.common
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.color
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.image
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.event
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.metadata
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.plugins.bmp
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.spi
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.stream
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.gif
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.image
+Package Size: 32 | Module Size: 2 | Redundant 603
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.jpeg
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.imageio.plugins.jpeg
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.png
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.zip
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.plugins.wbmp
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.spi
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.imageio.stream
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.istack.internal
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.activation
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.istack.internal.localization
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.istack.internal.logging
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing
+Package Size: 37 | Module Size: 2 | Redundant 598
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing
+Package Size: 53 | Module Size: 3 | Redundant 771
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.gtk
+Package Size: 36 | Module Size: 3 | Redundant 788
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.event
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.accessibility
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.border
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.colorchooser
+Package Size: 15 | Module Size: 1 | Redundant 274
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.event
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.filechooser
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf.basic
+Package Size: 40 | Module Size: 2 | Redundant 595
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf.synth
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.table
+Package Size: 17 | Module Size: 1 | Redundant 272
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.text
+Package Size: 33 | Module Size: 2 | Redundant 602
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.shell
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.font
+Package Size: 33 | Module Size: 2 | Redundant 602
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.action
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing
+Package Size: 40 | Module Size: 2 | Redundant 595
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.plaf.synth
+Package Size: 19 | Module Size: 1 | Redundant 270
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.gtk.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.motif
+Package Size: 18 | Module Size: 1 | Redundant 271
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.tree
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.motif.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.nimbus
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf.nimbus
+Package Size: 23 | Module Size: 2 | Redundant 612
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.windows
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.table
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.swing.plaf.windows.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java.util.jar.pack
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.file
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.file.attribute
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.jar
+Package Size: 16 | Module Size: 1 | Redundant 273
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.logging
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.java_cup.internal.runtime
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.defaults
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.interceptor
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.mbeanserver
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.remote.util
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.loading
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.concurrent.locks
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.openmbean
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.remote.internal
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.remote.security
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.remote
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.remote.protocol.rmi
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.remote.rmi
+Package Size: 31 | Module Size: 2 | Redundant 604
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.security.cert
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.regex
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth.callback
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth.login
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth.spi
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.jmxremote
+Package Size: 26 | Module Size: 2 | Redundant 609
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.internal
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.IPAcl
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.security.acl
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.agent
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.daemon
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.tasks
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.defaults
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jmx.snmp.mpm
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.dns
+Package Size: 17 | Module Size: 2 | Redundant 618
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.toolkit.ctx
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.toolkit.url
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.naming
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.naming.directory
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.naming.spi
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.dns
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jca
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.ldap
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.ldap.ext
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.ldap.pool
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.ldap.sasl
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.toolkit.dir
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.ldap
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.invoke
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.naming.event
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.naming.ldap
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.net
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.net.ssl
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.util
+Package Size: 31 | Module Size: 1 | Redundant 258
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.sasl
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.rmi.registry
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.rmi
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.rmi.registry
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.toolkit.corba
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.corbaname
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.iiop
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.dns
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.iiopname
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.jndi.url.ldaps
+Package Size: 1 | Module Size: 1 | Redundant 345
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.management
+Package Size: 19 | Module Size: 2 | Redundant 616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.management
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management
+Package Size: 31 | Module Size: 2 | Redundant 604
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.media.sound
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.prefs
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sound.midi
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sound.midi.spi
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sound.sampled
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sound.sampled.spi
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.naming.internal
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.net.httpserver
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.net.httpserver.spi
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.httpserver
+Package Size: 15 | Module Size: 1 | Redundant 274
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.net.ssl
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.cert
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.net.ssl.internal.www.protocol.https
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.http
+Package Size: 28 | Module Size: 2 | Redundant 607
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.https
+Package Size: 16 | Module Size: 1 | Redundant 273
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.x509
+Package Size: 22 | Module Size: 2 | Redundant 613
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.nio.file
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.nio.sctp
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.channels.spi
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio.ch.sctp
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.bcel.internal
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.bcel.internal.classfile
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.bcel.internal.util
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.bcel.internal.generic
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.utils
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.extensions
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.utils
+Package Size: 20 | Module Size: 3 | Redundant 804
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal
+Package Size: 38 | Module Size: 3 | Redundant 786
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.objects
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.traversal
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.lib
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.res
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.dtm
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.dtm.ref
+Package Size: 25 | Module Size: 3 | Redundant 799
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.axes
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.xml.internal
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.res
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.templates
+Package Size: 2 | Module Size: 2 | Redundant 476
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.utils.res
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.transform.dom
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.transform.sax
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.transform.stream
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc
+Package Size: 33 | Module Size: 3 | Redundant 791
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.serializer
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.compiler
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.compiler.util
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.dom
+Package Size: 30 | Module Size: 3 | Redundant 794
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.runtime
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.runtime.output
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.serializer.utils
+Package Size: 7 | Module Size: 2 | Redundant 471
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.trax
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xalan.internal.xsltc.util
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.dtm.ref.sax2dtm
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.res
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.transform.stax
+Package Size: 4 | Module Size: 2 | Redundant 474
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.xml.sax.ext
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.jaxp
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.stream.events
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.dom
+Package Size: 30 | Module Size: 3 | Redundant 794
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.dom.events
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dtd
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dv
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dv.xs
+Package Size: 19 | Module Size: 3 | Redundant 805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.msg
+Package Size: 5 | Module Size: 2 | Redundant 473
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.validation
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs
+Package Size: 29 | Module Size: 3 | Redundant 795
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs.util
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.parsers
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.util
+Package Size: 30 | Module Size: 3 | Redundant 794
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.utils
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xni
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xni.grammars
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xni.parser
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xs
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.serialize
+Package Size: 20 | Module Size: 3 | Redundant 804
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.events
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.ls
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.ranges
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.io
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream
+Package Size: 20 | Module Size: 3 | Redundant 804
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.dtd
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.dtd.nonvalidating
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.events
+Package Size: 14 | Module Size: 3 | Redundant 810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dtd.models
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dv.dtd
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.dv.util
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xs.datatypes
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xpath.regex
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.jaxp.datatype
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.datatype
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.util
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xpath
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs.identity
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs.models
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs.traversers
+Package Size: 29 | Module Size: 3 | Redundant 795
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.impl.xs.opti
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.jaxp.validation
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.validation
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xinclude
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xerces.internal.xpointer
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.resolver
+Package Size: 13 | Module Size: 2 | Redundant 465
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.resolver.readers
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.dtm.ref.dom2dtm
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.resolver.helpers
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.resolver.tools
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.algorithms
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.c14n
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.exceptions
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.keyresolver
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.transforms
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.utils
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.utils.resolver
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.algorithms.implementations
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.encryption
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.signature
+Package Size: 25 | Module Size: 3 | Redundant 799
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.security.spec
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.security.interfaces
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.crypto
+Package Size: 0 | Module Size: 0 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.c14n.implementations
+Package Size: 14 | Module Size: 3 | Redundant 810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.c14n.helper
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.transforms.params
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.keyresolver.implementations
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.crypto.spec
+Package Size: 0 | Module Size: 0 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.content
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.content.keyvalues
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.storage
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.content.x509
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth.x500
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.keys.storage.implementations
+Package Size: 12 | Module Size: 2 | Redundant 466
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.signature.reference
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.transforms.implementations
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.functions
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.compiler
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.xpath
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xml.internal.security.utils.resolver.implementations
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.html
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.operations
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.patterns
+Package Size: 10 | Module Size: 2 | Redundant 468
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.xpath
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.apache.xpath.internal.jaxp
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.amx
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.arc
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.probe.provider
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.probe.provider.annotations
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.statistics
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.statistics.annotations
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.external.statistics.impl
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.gmbal
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.glassfish.gmbal.util
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.modelmbean
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.org.omg.SendingContext.CodeBasePackage
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.rmi.rmid
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.rowset
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.rowset.internal
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.rowset.providers
+Package Size: 7 | Module Size: 2 | Redundant 471
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.sql
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sql
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sql.rowset
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sql.rowset.serial
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.sql.rowset.spi
+Package Size: 14 | Module Size: 3 | Redundant 810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.auth
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.provider
+Package Size: 29 | Module Size: 1 | Redundant 260
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.auth.callback
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.auth.login
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.auth.module
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.security.auth.kerberos
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jgss.krb5
+Package Size: 23 | Module Size: 1 | Redundant 266
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5
+Package Size: 25 | Module Size: 2 | Redundant 610
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.ktab
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.cert.internal.x509
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.jgss
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.ietf.jgss
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jgss
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.ntlm
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.sasl
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.sasl.util
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.sasl.digest
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.sasl.gsskerb
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.security.sasl.ntlm
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.swing.internal.plaf.basic.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.swing.internal.plaf.metal.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.swing.internal.plaf.synth.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime.reflect
+Package Size: 30 | Module Size: 3 | Redundant 794
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind.annotation.adapters
+Package Size: 4 | Module Size: 3 | Redundant 820
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.annotation
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.api
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.api.impl
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.annotation
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.nav
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.runtime
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime
+Package Size: 48 | Module Size: 3 | Redundant 776
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime.unmarshaller
+Package Size: 45 | Module Size: 3 | Redundant 779
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind.attachment
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.lang.model
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.marshaller
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.util
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.util
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.unmarshaller
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind.helpers
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.bytecode
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.core
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind.annotation
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.impl
+Package Size: 44 | Module Size: 3 | Redundant 780
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.model.util
+Package Size: 3 | Module Size: 2 | Redundant 475
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime.output
+Package Size: 26 | Module Size: 3 | Redundant 798
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime.property
+Package Size: 22 | Module Size: 3 | Redundant 802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.schemagen
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.txw2.output
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.stax
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.fastinfoset
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.staxex
+Package Size: 10 | Module Size: 2 | Redundant 468
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.runtime.reflect.opt
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.sax
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.schemagen.episode
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.bind.v2.schemagen.xmlschema
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.txw2
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.txw2.annotation
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.algorithm
+Package Size: 8 | Module Size: 3 | Redundant 816
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.alphabet
+Package Size: 3 | Module Size: 2 | Redundant 475
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.org.apache.xerces.util
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.util
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.vocab
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.dom
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.fastinfoset.sax
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.fastinfoset.stax
+Package Size: 3 | Module Size: 2 | Redundant 475
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.stax.events
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.stream.util
+Package Size: 5 | Module Size: 2 | Redundant 473
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.stax.factory
+Package Size: 14 | Module Size: 2 | Redundant 464
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.stax.util
+Package Size: 5 | Module Size: 2 | Redundant 473
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.fastinfoset.tools
+Package Size: 24 | Module Size: 3 | Redundant 800
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj
+Package Size: 3 | Module Size: 2 | Redundant 475
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.client.p2p
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.util
+Package Size: 19 | Module Size: 3 | Redundant 805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.packaging.mime
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.packaging.mime.internet
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.packaging.mime.util
+Package Size: 4 | Module Size: 3 | Redundant 820
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap
+Package Size: 35 | Module Size: 3 | Redundant 789
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.mimepull
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap.dynamic
+Package Size: 3 | Module Size: 2 | Redundant 475
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap.impl
+Package Size: 22 | Module Size: 3 | Redundant 802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap.name
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap.ver1_1
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.soap.ver1_2
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.messaging.saaj.util.transform
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.datatransfer
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.org.jvnet.fastinfoset.sax.helpers
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.writers
+Package Size: 19 | Module Size: 3 | Redundant 805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.buffer
+Package Size: 15 | Module Size: 3 | Redundant 809
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.buffer.sax
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.stream.buffer.stax
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws
+Package Size: 77 | Module Size: 3 | Redundant 747
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.addressing
+Package Size: 41 | Module Size: 3 | Redundant 783
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.addressing.model
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.addressing.v200408
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.addressing
+Package Size: 47 | Module Size: 3 | Redundant 777
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.model
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.model.wsdl
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.pipe
+Package Size: 45 | Module Size: 3 | Redundant 779
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.pipe.helper
+Package Size: 4 | Module Size: 3 | Redundant 820
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.server
+Package Size: 39 | Module Size: 3 | Redundant 785
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.client
+Package Size: 65 | Module Size: 3 | Redundant 759
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.message
+Package Size: 36 | Module Size: 3 | Redundant 788
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.resources
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.server
+Package Size: 68 | Module Size: 3 | Redundant 756
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.spi.db
+Package Size: 28 | Module Size: 3 | Redundant 796
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.util.xml
+Package Size: 33 | Module Size: 3 | Redundant 791
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.parser
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.wsaddressing
+Package Size: 10 | Module Size: 3 | Redundant 814
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.addressing.policy
+Package Size: 19 | Module Size: 3 | Redundant 805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.jaxws.spi
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.privateutil
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.sourcemodel
+Package Size: 14 | Module Size: 3 | Redundant 810
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.spi
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.subject
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.message.saaj
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.binding
+Package Size: 26 | Module Size: 3 | Redundant 798
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding.soap
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding.soap.streaming
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.handler
+Package Size: 5 | Module Size: 2 | Redundant 473
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.message.stream
+Package Size: 32 | Module Size: 3 | Redundant 792
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.spi
+Package Size: 27 | Module Size: 3 | Redundant 797
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.client
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.config.management
+Package Size: 5 | Module Size: 3 | Redundant 819
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.config.management.policy
+Package Size: 12 | Module Size: 3 | Redundant 812
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.wsdl.writer
+Package Size: 6 | Module Size: 3 | Redundant 818
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.db
+Package Size: 28 | Module Size: 3 | Redundant 796
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.fastinfoset
+Package Size: 4 | Module Size: 2 | Redundant 474
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.ha
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.handler
+Package Size: 8 | Module Size: 2 | Redundant 470
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.db.glassfish
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.message.jaxb
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.message.saaj
+Package Size: 25 | Module Size: 3 | Redundant 799
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.message.source
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.transport.http
+Package Size: 35 | Module Size: 3 | Redundant 789
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.util.exception
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.message.stream
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.model.soap
+Package Size: 3 | Module Size: 3 | Redundant 821
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.jws
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.jws.soap
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.policy
+Package Size: 16 | Module Size: 3 | Redundant 808
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.wsdl.parser
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.model.wsdl.editable
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.assembler
+Package Size: 28 | Module Size: 3 | Redundant 796
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.client.dispatch
+Package Size: 37 | Module Size: 3 | Redundant 787
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.client.sei
+Package Size: 47 | Module Size: 3 | Redundant 777
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.handler
+Package Size: 42 | Module Size: 3 | Redundant 782
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.protocol.soap
+Package Size: 22 | Module Size: 3 | Redundant 802
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.transport
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.transport.http.client
+Package Size: 25 | Module Size: 3 | Redundant 799
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.util.pipe
+Package Size: 31 | Module Size: 3 | Redundant 793
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.config.management.policy
+Package Size: 7 | Module Size: 3 | Redundant 817
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding.policy
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.jaxws
+Package Size: 31 | Module Size: 3 | Redundant 793
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.sourcemodel.wspolicy
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.api.policy.subject
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.server.provider
+Package Size: 28 | Module Size: 3 | Redundant 796
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.server.sei
+Package Size: 42 | Module Size: 3 | Redundant 782
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.transport.http.server
+Package Size: 33 | Module Size: 3 | Redundant 791
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.assembler.dev
+Package Size: 11 | Module Size: 3 | Redundant 813
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.dump
+Package Size: 18 | Module Size: 3 | Redundant 806
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.assembler.jaxws
+Package Size: 4 | Module Size: 2 | Redundant 474
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.model.wsdl
+Package Size: 21 | Module Size: 3 | Redundant 803
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.handler.soap
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding.xml
+Package Size: 25 | Module Size: 3 | Redundant 799
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.commons.xmlutil
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.config.metro.dev
+Package Size: 4 | Module Size: 2 | Redundant 474
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.config.metro.util
+Package Size: 3 | Module Size: 3 | Redundant 821
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer
+Package Size: 44 | Module Size: 3 | Redundant 780
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.encoding.fastinfoset
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.annotation
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.bind.util
+Package Size: 9 | Module Size: 3 | Redundant 815
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.model.soap
+Package Size: 4 | Module Size: 3 | Redundant 820
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.org.objectweb.asm
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.policy.sourcemodel.attach
+Package Size: 13 | Module Size: 3 | Redundant 811
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.protocol.xml
+Package Size: 3 | Module Size: 3 | Redundant 821
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.ws.spi.http
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer.document
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer.document.soap
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer.document.soap12
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer.document.xsd
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: com.sun.xml.internal.ws.wsdl.writer.document.http
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.applet
+Package Size: 24 | Module Size: 2 | Redundant 611
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.dnd
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.dnd.peer
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.font
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.im
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.image.renderable
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.peer
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.dnd
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.geom
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.im
+Package Size: 19 | Module Size: 3 | Redundant 805
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.util
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.pipe
+Package Size: 20 | Module Size: 2 | Redundant 615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.pipe.hw
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util
+Package Size: 17 | Module Size: 3 | Redundant 807
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.cmm
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.datatransfer
+Package Size: 20 | Module Size: 2 | Redundant 615
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.text
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.im.spi
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.awt.print
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.print
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.print.attribute
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.print.attribute.standard
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.beans.beancontext
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.stream
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio.cs
+Package Size: 12 | Module Size: 2 | Redundant 466
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.function
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www
+Package Size: 27 | Module Size: 1 | Redundant 262
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.annotation
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.factory
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.repository
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.scope
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.lang.instrument
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.invoke
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.invoke.empty
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.invoke.util
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.net
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.idn
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.spi
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.util
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.file
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.text.normalizer
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.file.spi
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.nio.charset.spi
+Package Size: 4 | Module Size: 1 | Redundant 285
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio.fs
+Package Size: 22 | Module Size: 2 | Redundant 613
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.time
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.server
+Package Size: 30 | Module Size: 2 | Redundant 605
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.rmi.activation
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.transport
+Package Size: 28 | Module Size: 1 | Redundant 261
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.rmi.dgc
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.registry
+Package Size: 19 | Module Size: 2 | Redundant 616
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.transport.tcp
+Package Size: 18 | Module Size: 1 | Redundant 271
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.runtime
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.provider.certpath
+Package Size: 18 | Module Size: 1 | Redundant 271
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.text.spi
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.text.bidi
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.calendar
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.locale.provider
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.resources
+Package Size: 10 | Module Size: 2 | Redundant 468
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.util.spi
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.time.chrono
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.time.format
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.time.temporal
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: java.time.zone
+Package Size: 9 | Module Size: 1 | Redundant 280
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.util.xml
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.locale
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.spi
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.activity
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.annotation.processing
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.lang.model.element
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.lang.model.util
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.tools
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.lang.model.type
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.monitor
+Package Size: 11 | Module Size: 2 | Redundant 624
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.relation
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.rmi.ssl
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.management.timer
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.print.event
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.print
+Package Size: 36 | Module Size: 2 | Redundant 599
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.script
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.smartcardio
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.transaction.xa
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf.metal
+Package Size: 25 | Module Size: 1 | Redundant 264
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.text.html
+Package Size: 25 | Module Size: 2 | Redundant 610
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.event
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.undo
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.plaf.multi
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.plaf
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.text
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.text.html
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.text.html.parser
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.swing.text.rtf
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto.dsig.keyinfo
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto.dom
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto.dsig
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto.dsig.spec
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.xml.crypto.dsig.dom
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.management.cmm
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.instrumentation
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm.commons
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm.tree
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm.util
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm.signature
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.objectweb.asm.tree.analysis
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.xml.sax
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.org.xml.sax.helpers
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.util
+Package Size: 1 | Module Size: 1 | Redundant 288
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.internal.util.xml.impl
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.management.resource
+Package Size: 10 | Module Size: 2 | Redundant 625
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.management.resource.internal
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: jdk.management.resource.internal.inst
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.jcp.xml.dsig.internal
+Package Size: 6 | Module Size: 2 | Redundant 472
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.jcp.xml.dsig.internal.dom
+Package Size: 34 | Module Size: 3 | Redundant 790
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.omg.CORBA.DynAnyPackage
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.bootstrap
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.css
+Package Size: 5 | Module Size: 2 | Redundant 630
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.stylesheets
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: org.w3c.dom.views
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.applet.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.loops
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.opengl
+Package Size: 21 | Module Size: 2 | Redundant 614
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.x11
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.xr
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.X11
+Package Size: 50 | Module Size: 2 | Redundant 585
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio.cs.ext
+Package Size: 0 | Module Size: 0 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.awt.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.dc
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.dc.path
+Package Size: 2 | Module Size: 2 | Redundant 633
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.dc.pr
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.instrument
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.cmm.lcms
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.jules
+Package Size: 13 | Module Size: 2 | Redundant 622
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.java2d.pisces
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.launcher
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.launcher.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.counter
+Package Size: 3 | Module Size: 2 | Redundant 632
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.counter.perf
+Package Size: 8 | Module Size: 2 | Redundant 627
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.jdp
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.snmp
+Package Size: 12 | Module Size: 2 | Redundant 623
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.snmp.jvminstr
+Package Size: 15 | Module Size: 2 | Redundant 620
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.snmp.util
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.management.snmp.jvmmib
+Package Size: 7 | Module Size: 2 | Redundant 628
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.nio
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.usagetracker
+Package Size: 9 | Module Size: 2 | Redundant 626
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.ftp
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.ftp.impl
+Package Size: 14 | Module Size: 2 | Redundant 621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.smtp
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.http
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.content.text
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.ftp
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.http.logging
+Package Size: 3 | Module Size: 1 | Redundant 286
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.http.ntlm
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.ssl
+Package Size: 0 | Module Size: 0 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.jar
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.net.www.protocol.mailto
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.print.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.parser
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.tree
+Package Size: 4 | Module Size: 2 | Redundant 631
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.reflect.generics.visitor
+Package Size: 6 | Module Size: 2 | Redundant 629
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.rmi.log
+Package Size: 7 | Module Size: 1 | Redundant 282
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jgss.spi
+Package Size: 6 | Module Size: 1 | Redundant 283
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jgss.spnego
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.jgss.wrapper
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal
+Package Size: 15 | Module Size: 1 | Redundant 274
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.crypto
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.ccache
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.rcache
+Package Size: 16 | Module Size: 2 | Redundant 619
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.util
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.krb5.internal.crypto.dk
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.pkcs
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.timestamp
+Package Size: 12 | Module Size: 1 | Redundant 277
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.pkcs10
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.pkcs12
+Package Size: 14 | Module Size: 1 | Redundant 275
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.rsa
+Package Size: 16 | Module Size: 1 | Redundant 273
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.validator
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.provider.certpath.ldap
+Package Size: 18 | Module Size: 2 | Redundant 617
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.provider.certpath.ssl
+Package Size: 10 | Module Size: 1 | Redundant 279
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.smartcardio
+Package Size: 11 | Module Size: 1 | Redundant 278
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.tools
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.tools.keytool
+Package Size: 25 | Module Size: 1 | Redundant 264
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.security.tools.policytool
+Package Size: 19 | Module Size: 1 | Redundant 270
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: javax.crypto.interfaces
+Package Size: 0 | Module Size: 0 | Redundant 0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.icon
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.swing.plaf.windows
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.text.resources
+Package Size: 5 | Module Size: 1 | Redundant 284
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.tools.jar
+Package Size: 13 | Module Size: 1 | Redundant 276
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.tools.jar.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.cldr
+Package Size: 8 | Module Size: 1 | Redundant 281
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Item: sun.util.logging.resources
+Package Size: 2 | Module Size: 1 | Redundant 287
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
