@@ -37,6 +37,10 @@ class PerformanceMeasuring {
 
 
         writeHeader();
+        int totalPackSize = 0;
+        int totalModuleSize = 0;
+        int totalRedundant = 0;
+        
 
         for (String item : uniquePackage) {
 
@@ -129,12 +133,18 @@ class PerformanceMeasuring {
            if ((c - packOfPack.size()) < 0) {
             System.out.println(item);
            }
+            totalPackSize = totalPackSize + packOfPack.size();
+            totalModuleSize = totalModuleSize + module_hash.size();
+            totalRedundant = totalRedundant + (c -packOfPack.size());
             logToFile(item, packOfPack.size(), module_hash.size(),c);
             logToFileCSV(item, packOfPack.size(), module_hash.size(),c);
             module_hash.clear();
             c =0;
             
         }
+        System.out.println("Total Package Size: " +totalPackSize);
+        System.out.println("Total Module Size: " +totalModuleSize);
+        System.out.println("Total Redundant Size: " +totalRedundant);
     }
 
     public static ArrayList<String> package_convert_list(String file) {
