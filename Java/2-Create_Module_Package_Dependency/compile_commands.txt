@@ -1,0 +1,2 @@
+javac --release 9 ModulePackageDependency.java
+java ModulePackageDependency 
