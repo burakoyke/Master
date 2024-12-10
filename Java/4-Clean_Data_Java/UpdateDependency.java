@@ -56,10 +56,44 @@ public class UpdateDependency {
         // Güncellenmiş listeyi dosyaya kaydet
         saveToFile("packages_packages_dependencies_new.rsf", updatedPackOfPackages);
 
-        // Güncellenmiş listeyi yazdır
-        for (String updatedEntry : updatedPackOfPackages) {
-            System.out.println(updatedEntry);
+        List<String> missingModules = findMissingModules(packOfModules, updatedPackOfPackages);
+
+        List<String> filteredModules = filterModulesFile(filePath, missingModules);
+        saveToFile("modules_packages_dependencies_new.rsf", filteredModules);
+
+    }
+    private static List<String> filterModulesFile(String filePath, List<String> missingModules) {
+        List<String> filteredLines = new ArrayList<>();
+        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] parts = line.split(" ");
+                if (parts.length > 2 && missingModules.contains(parts[2])) {
+                    // Satırdaki 2. index missingModules içerisinde varsa, satırı atla
+                    continue;
+                }
+                filteredLines.add(line); // Diğer satırları listeye ekle
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+        return filteredLines;
+    }
+    private static List<String> findMissingModules(List<String> packOfModules, List<String> updatedPackOfPackages) {
+        List<String> missingModules = new ArrayList<>();
+        for (String module : packOfModules) {
+            boolean found = false;
+            for (String updatedEntry : updatedPackOfPackages) {
+                if (updatedEntry.contains(module)) {
+                    found = true;
+                    break;
+                }
+            }
+            if (!found) {
+                missingModules.add(module);
+            }
+        }
+        return missingModules;
     }
 
     private static boolean elementExistsInList(String element, List<String> list) {
